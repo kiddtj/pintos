@@ -1,0 +1,104 @@
+4/19 3:30pm
+	TJ	30m
+	Ly	35m
+	Aaron	38m
+	TJ	33m
+	Ly	8m
+
+4/21 3:30pm
+	TJ	35m
+	Ly	30m
+	Aaron	31m
+	TJ	35m
+	Ly	42m
+	Aaron	38m
+
+4/22 3:20pm
+	TJ	31m	
+	Ly	39m	
+	Aaron	31m
+	TJ	37m
+	Ly	30m
+	Aaron	22m
+
+4/25 3:15pm
+	TJ	31m
+	Ly	33m
+	Aaron	33m
+	TJ	32m
+	Ly	34m
+	Aaron	29m
+
+4/26 3:20pm
+	TJ	35m
+	Ly	37m
+	Aaron	37m
+	TJ	42m
+	Ly	41m
+
+4/28 3:30pm
+	TJ	35m
+	Ly	41m
+	Aaron	38m
+	TJ	41m
+	Ly	30m
+
+4/29 3:30pm
+	TJ	41m
+	Ly	40m
+	Aaron	40m
+	TJ	48m
+	Ly	48m
+
+4/30 11:30pm
+	TJ	1h30m
+	Ly	1h
+	Aaron	1h
+	TJ	1h
+	Ly	1h
+
+5/2 3:15pm
+	TJ	32m
+	Ly	31m
+	Aaron	32m
+	TJ	32m
+	Ly	34m
+	Aaron	33m
+	TJ	31m
+	Ly	34m
+	Aaron	7m
+
+5/3	TJ	31m
+	Ly	31m
+	Aaron	30m
+	TJ	31m
+	Ly	40m
+	Aaron	33m
+	TJ	27m
+
+5/4	TJ	1h
+	Ly	1h
+	TJ	1h
+	Ly	1h
+
+5/5	3:20pm
+	TJ	31m
+	Ly	35m
+	Aaron	36m
+	TJ	35m
+	Ly	33m
+	Aaron	40m
+
+5/6	10am
+	TJ	32m
+	Ly	34m
+	Aaron	30m
+	TJ	35m
+	Ly	39m
+	3pm
+	TJ	31m
+	Ly	32m
+	Aaron	31m
+	TJ	45m
+	Ly	44m
+	Aaron	15m
